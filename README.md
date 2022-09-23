@@ -1,7 +1,8 @@
 # SDSAssignment3
 SDS Scientific computing Assignment 3
 
-Student Details:
+We worked on this assignment as a group of 3.
+Please find below the Student Details:
 
 Shreya Shukla
 UT EID: ss223882
